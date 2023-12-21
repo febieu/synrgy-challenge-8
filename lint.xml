@@ -3,9 +3,11 @@
 <!--    <issue id="IconMissingDensityFolder" severity="ignore"/>-->
 <!--    <issue id="ObsoleteLayoutParam">-->
 <!--        <ignore path="res/layout/activity_blur.xml"/>-->
+
 <!--    </issue>-->
 <!--    <issue id="UselessLeaf">-->
 <!--        <ignore path="res/layout/activity_blur.xml"/>-->
 <!--    </issue>-->
+
 <!--    <issue id="HardcodedText" severity="error"/>-->
 <!--</lint>-->
