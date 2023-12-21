@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/chechout@v2
+      - uses: actions/checkout@v2
       - name: build
         run: ./gradlew assemble
   test:
